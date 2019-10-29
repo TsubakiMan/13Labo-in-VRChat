@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: c0f3df1cdfe94de40935d3d7a8f317be
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: backOfMicrowave
+    100004: blind
+    100006: chaisInSmallroom
+    100008: counterAndWall
+    100010: Cube
+    100012: Cube.001
+    100014: Cube.002
+    100016: Cube.003
+    100018: deskLeg
+    100020: deskLeg.001
+    100022: deskLeg.002
+    100024: floor
+    100026: floorOfEntrance
+    100028: frontOfMicrowave
+    100030: geometry-lumionModel.014
+    100032: nobOfFridge
+    100034: pillar
+    100036: Point
+    100038: sawhorseBracket1
+    100040: sawhorseBracket1.001
+    100042: sawhorseBracket1.002
+    100044: ShellfInBack
+    100046: sofablackAndCoffeemachineAndSink
+    100048: sofablueAndDoorOfSmallroom
+    100050: steelFrame
+    100052: switchOfMicrowave
+    100054: topBoard1
+    100056: topBoard1.001
+    100058: topBoard1.002
+    100060: wall
+    100062: wallOfEntrance
+    100064: wallOfSmallroo,
+    100066: windowFrame
+    100068: windowGlass
+    100070: wireframeForPlant
+    400000: //RootNode
+    400002: backOfMicrowave
+    400004: blind
+    400006: chaisInSmallroom
+    400008: counterAndWall
+    400010: Cube
+    400012: Cube.001
+    400014: Cube.002
+    400016: Cube.003
+    400018: deskLeg
+    400020: deskLeg.001
+    400022: deskLeg.002
+    400024: floor
+    400026: floorOfEntrance
+    400028: frontOfMicrowave
+    400030: geometry-lumionModel.014
+    400032: nobOfFridge
+    400034: pillar
+    400036: Point
+    400038: sawhorseBracket1
+    400040: sawhorseBracket1.001
+    400042: sawhorseBracket1.002
+    400044: ShellfInBack
+    400046: sofablackAndCoffeemachineAndSink
+    400048: sofablueAndDoorOfSmallroom
+    400050: steelFrame
+    400052: switchOfMicrowave
+    400054: topBoard1
+    400056: topBoard1.001
+    400058: topBoard1.002
+    400060: wall
+    400062: wallOfEntrance
+    400064: wallOfSmallroo,
+    400066: windowFrame
+    400068: windowGlass
+    400070: wireframeForPlant
+    2100000: "\u91D1\u5C5E _ \u30A2\u30EB\u30DF\u30CB\u30A6\u30E0.001"
+    2100002: "\u91D1\u5C5E _ \u30B9\u30C6\u30F3\u30EC\u30B9.001"
+    2100004: woodfloor
+    2100006: "\u5E8A\u677F _ 01.001"
+    2100008: wall
+    2100010: "\u30BB\u30E9\u30DF\u30C3\u30AF _ \u78C1\u5668 \u30D9\u30FC\u30B8\u30E5.001"
+    2100012: steelframe
+    2100014: "\u30EA\u30CE _ \u30B0\u30EC\u30FC.001"
+    2100016: "\u6728\u6750 _ \u304F\u308B\u307F \u6A2A.001"
+    2100018: "\u30AC\u30E9\u30B9 _ \u30B7\u30F3\u30D7\u30EB.001"
+    2100020: "\u6728\u6750 _ \u30AB\u30A8\u30C7 \u30E9\u30A4\u30C8.001"
+    2100022: "\u91D1\u5C5E _ \u30CB\u30C3\u30B1\u30EB.001"
+    2100024: "\u30D7\u30E9\u30B9\u30C1\u30C3\u30AF _ \u5149\u6CA2 \u767D.001"
+    2100026: "\u30DA\u30A4\u30F3\u30C8 _ \u30A2\u30F3\u30C8\u30E9\u30B7\u30FC\u30C8.001"
+    2100028: "\u30DA\u30A4\u30F3\u30C8 _ \u30B3\u30D0\u30EB\u30C8\u30D6\u30EB\u30FC.001"
+    2100030: "\u30DA\u30A4\u30F3\u30C8 _ \u30B5\u30F3\u30C9\u30D9\u30FC\u30B8\u30E5.001"
+    2100032: "\u30B3\u30F3\u30AF\u30EA\u30FC\u30C8 _ 04.001"
+    2100034: wallOfEntrance
+    2100036: blacksteel
+    2100038: blind
+    2100040: No Name
+    2100042: polywood
+    2100044: Material.001
+    2300000: backOfMicrowave
+    2300002: blind
+    2300004: chaisInSmallroom
+    2300006: counterAndWall
+    2300008: Cube
+    2300010: Cube.001
+    2300012: Cube.002
+    2300014: Cube.003
+    2300016: deskLeg
+    2300018: deskLeg.001
+    2300020: deskLeg.002
+    2300022: floor
+    2300024: floorOfEntrance
+    2300026: frontOfMicrowave
+    2300028: geometry-lumionModel.014
+    2300030: nobOfFridge
+    2300032: pillar
+    2300034: sawhorseBracket1
+    2300036: sawhorseBracket1.001
+    2300038: sawhorseBracket1.002
+    2300040: ShellfInBack
+    2300042: sofablackAndCoffeemachineAndSink
+    2300044: sofablueAndDoorOfSmallroom
+    2300046: steelFrame
+    2300048: switchOfMicrowave
+    2300050: topBoard1
+    2300052: topBoard1.001
+    2300054: topBoard1.002
+    2300056: wall
+    2300058: wallOfEntrance
+    2300060: wallOfSmallroo,
+    2300062: windowFrame
+    2300064: windowGlass
+    2300066: wireframeForPlant
+    3300000: backOfMicrowave
+    3300002: blind
+    3300004: chaisInSmallroom
+    3300006: counterAndWall
+    3300008: Cube
+    3300010: Cube.001
+    3300012: Cube.002
+    3300014: Cube.003
+    3300016: deskLeg
+    3300018: deskLeg.001
+    3300020: deskLeg.002
+    3300022: floor
+    3300024: floorOfEntrance
+    3300026: frontOfMicrowave
+    3300028: geometry-lumionModel.014
+    3300030: nobOfFridge
+    3300032: pillar
+    3300034: sawhorseBracket1
+    3300036: sawhorseBracket1.001
+    3300038: sawhorseBracket1.002
+    3300040: ShellfInBack
+    3300042: sofablackAndCoffeemachineAndSink
+    3300044: sofablueAndDoorOfSmallroom
+    3300046: steelFrame
+    3300048: switchOfMicrowave
+    3300050: topBoard1
+    3300052: topBoard1.001
+    3300054: topBoard1.002
+    3300056: wall
+    3300058: wallOfEntrance
+    3300060: wallOfSmallroo,
+    3300062: windowFrame
+    3300064: windowGlass
+    3300066: wireframeForPlant
+    4300000: windowFrame
+    4300002: nobOfFridge
+    4300004: floor
+    4300006: counterAndWall
+    4300008: pillar
+    4300010: frontOfMicrowave
+    4300012: steelFrame
+    4300014: wallOfSmallroo,
+    4300016: chaisInSmallroom
+    4300018: windowGlass
+    4300020: geometry-lumionModel.014
+    4300022: ShellfInBack
+    4300024: backOfMicrowave
+    4300026: sofablackAndCoffeemachineAndSink
+    4300028: sofablueAndDoorOfSmallroom
+    4300030: wall
+    4300032: switchOfMicrowave
+    4300034: floorOfEntrance
+    4300036: wallOfEntrance
+    4300038: Cube.001
+    4300040: wireframeForPlant
+    4300042: blind
+    4300044: Cube
+    4300046: Cube.002
+    4300048: Cube.003
+    4300050: deskLeg
+    4300052: topBoard1
+    4300054: sawhorseBracket1
+    4300056: deskLeg.001
+    4300058: topBoard1.001
+    4300060: sawhorseBracket1.001
+    4300062: deskLeg.002
+    4300064: topBoard1.002
+    4300066: sawhorseBracket1.002
+    10800000: Point
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

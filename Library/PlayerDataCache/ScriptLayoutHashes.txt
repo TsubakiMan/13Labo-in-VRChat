@@ -1,0 +1,11 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/s1721/AppData/Local/Temp/DefaultCompany/Labo in VRChat2/customscene.vrcw
+SceneListBegin?
+Assets/test.unity
+SceneListEnd?
+dd4582ab16c2ebfa17d39efd5d1460d2 VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+392c390fc6ce2a337399dbaf1b22e37a VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+05688ba35204434725d66d336ae00e41 VRCSDK2.dll:VRCSDK2.VRC_Station
+e2a933463f4f4fb5cdd082fd93bd111f VRCSDK2.dll:VRCSDK2.VRC_Trigger
+ed2f55581dee6a32311eddab9a27bfcd VRCCore-Editor.dll:VRC.Core.PipelineManager
